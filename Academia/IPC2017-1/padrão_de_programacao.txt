@@ -1,0 +1,38 @@
+Padrão de programação
+-----------------------
+
+Usar o PEP 8 ( https://www.python.org/dev/peps/pep-0008/ ) por default com as seguintes particularidades:
+
+0) todos os nomes de variáveis e funções devem ser em inglês
+
+1) Nome de arquivos/pastas:
+- tudo em minúsculo 
+- sem acentos 
+- sem espaços
+- separação de nomes usando _
+ex: 
+lista02_exercicio01_questao01.py
+lista02_exercicio02.py
+lista02/
+
+
+2) Cabeçalho de questão:
+
+# ----------------------------------------------------------
+# Introdução a Programação de Computadores - IPC
+# Universidade do Estado do Amazonas - UEA
+# Prof. Jucimar Jr
+# nome completo do aluno 1	matrícula do aluno 1
+# nome completo do aluno 2	matrícula do aluno 2
+# nome completo do aluno 3	matrícula do aluno 3
+# nome completo do aluno 4	matrícula do aluno 4
+#
+# escreva aqui o enunciado do problema a ser implementado.
+# ----------------------------------------------------------
+
+3) Nomes de variáveis: lower_case_with_underscores
+
+4) Nomes de funçoes: lower_case_with_underscores. A primeira palavra tem de ser um verbo
+ex: write_something(x)
+
+5) Nomes de classes: CapitalizedWords/CamelCase

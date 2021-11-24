@@ -1,0 +1,41 @@
+Grupo 1 (4 questıes):
+lista02_exercicio01_questao09.py
+lista02_exercicio02.py
+lista02_exercicio01_questao12.py
+lista02_exercicio01_questao15.py
+--------------------------------
+Grupo 2 (3 questıes)
+lista02_exercicio07.py
+lista02_exercicio01_questao06.py
+lista02_exercicio01_questao13.py
+--------------------------------
+Grupo 3 (3 questıes)
+lista02_exercicio05.py
+lista02_exercicio01_questao07.py
+lista02_exercicio01_questao10.py
+--------------------------------
+Grupo 4
+lista02_exercicio03.py
+lista02_exercicio01_questao14.py
+lista02_exercicio01_questao08.py
+--------------------------------
+Grupo 5 
+lista02_exercicio01_questao01.py
+lista02_exercicio01_questao03.py
+lista02_exercicio08.py
+--------------------------------
+Grupo 6
+lista02_exercicio01_questao17.py
+lista02_exercicio01_questao18.py
+lista02_exercicio01_questao11.py
+--------------------------------
+Grupo 7
+lista02_exercicio01_questao04.py
+lista02_exercicio04.py
+lista02_exercicio01_questao05.py
+-------------------------------- 
+Grupo 8
+lista02_exercicio01_questao16.py
+lista02_exercicio06.py
+lista02_exercicio01_questao02.py
+---------------------------------

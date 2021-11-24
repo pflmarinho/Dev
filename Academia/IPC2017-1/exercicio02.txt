@@ -1,0 +1,30 @@
+Obs:
+- Desenvolver os exercícios abaixo usando python 3 e a padronização PEP 8 (https://www.python.org/dev/peps/pep-0008/) adotado pela disciplina
+- Nomes dos arquivos e pastas devem obedecer o padrão visto em sala de aula
+- Os arquivos de código-fonte devem estar neste repositório github
+- Explicar a resolução de cada um dos exercícios em sala de aula para toda a sala através da técnica de DOJO
+- Entrega 15/março 18h
+
+Lista de exercícios 02
+-------------------------
+Estrutura Sequencial, entrada, saída e cálculos 
+1) Fazer todos os exercícios dessa lista : http://wiki.python.org.br/EstruturaSequencial
+
+Turtle e introdução aos loops (http://openbookproject.net/thinkcs/python/english3e/hello_little_turtles.html e http://interactivepython.org/runestone/static/thinkcspy/PythonTurtle/toctree.html)
+2) Desenhar um polígono com 3 lados iguais. Cada lado uma cor diferente.
+3) Desenhar um polígono com 5 lados iguais. Cada lado uma cor diferente.
+4) Desenhar um polígono com 6 lados iguais. Cada lado uma cor diferente.
+5) Desenhar uma estrela de 5 pontas
+6) Desenhar uma estrela de 6 pontas
+7) Desenhar um espiral
+8) Explicar DETALHADAMENTE o funcionamento do programa abaixo:
+
+import turtle   
+colors=['red', 'purple', 'blue','green', 'yellow', 'orange']
+t=turtle.Pen()
+turtle.bgcolor('black')
+for x in range(360):
+    t.pencolor(colors[x%6])
+    t.width(x/100+1)
+    t.forward(x)        
+    t.left(59)
