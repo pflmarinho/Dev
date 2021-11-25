@@ -1,7 +1,7 @@
 var agora = new Date()
 var diaSem = agora.getDay()
 
-switch(diaSem){ //Multiplos
+switch(diaSem){ //condicional Multiplo
     case 0:
         console.log('Domingo')
         break
