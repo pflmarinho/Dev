@@ -24,6 +24,6 @@ switch(diaSem){ //Multiplos
         console.log('Sabado')
         break
     default:
-        console.log('[erro] dia invalido')
+        console.log('[erro] dia inválido')
         break
 }
