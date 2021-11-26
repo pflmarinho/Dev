@@ -1,4 +1,4 @@
-function parimpar(n){
+function parimpar(n){ //funcao
     if (n%2 == 0){
         return "par"
     }

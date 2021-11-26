@@ -8,7 +8,7 @@ console.log(2)
 const func2 = function(valor){
     return valor * 2
 }
-const func22 = (valor) => valor * 2//arrow function
+const func22 = (valor) => valor * 2//arrow function (=>)
 
 console.log(func2(2))
 console.log(func22(2))
